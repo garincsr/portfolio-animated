@@ -155,7 +155,7 @@ export default function Hero() {
 
             <Button
               id="watch-trailter"
-              link="https://hopp.bio/garincsr"
+              link="https://heylink.me/gaarincsr/"
               title="Follow My Social Media"
               leftIcon={<RiUserFollowFill />}
               containerClass="!bg-yellow-300 !text-lg lg:!text-3xl !font-black flex-center gap-1"
